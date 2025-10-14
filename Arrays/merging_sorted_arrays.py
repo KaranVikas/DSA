@@ -2,6 +2,7 @@
 # one big sorted array.
 
 # for example, array = [1,3,5,7], array2 = [2,4,6,8]
+#  the best algo
 
 def merge(array1, array2):
     new_array = []
